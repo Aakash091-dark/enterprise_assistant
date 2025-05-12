@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+plotly
+pillow
+openai
+langchain
+sqlalchemy
+psycopg2-binary
+python-dotenv
+streamlit
